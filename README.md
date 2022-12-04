@@ -1,1 +1,2 @@
-# flutter_stopwatch_app
+# Stopwatch app
+A neat cross-platform stopwatch app created with Flutter
